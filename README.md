@@ -24,7 +24,7 @@ The emojis are displayed automatically, with JavaScript controlling their sequen
 
 ## Demo
 
-Check out the live demo of the project here: 
+Check out the live demo of the project here: https://carlotaml21.github.io/Emoji_Keyboard/
 
 ## Project Structure
 
