@@ -18,6 +18,7 @@ function toggleEmojiAndText() {
     currentDiv.style.fontFamily = "'Gill Sans', sans-serif";
   }
 
+  
   showingText = !showingText;
 
   if (!showingText) {
