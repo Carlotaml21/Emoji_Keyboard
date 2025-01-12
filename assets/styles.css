@@ -3,28 +3,24 @@
   width: 100%;
   background-color: white;
   height: 80;
+    
 }
+
 .FlexContainer div {
   width: 1500px;
   height: 110px;
   margin: 5px;
 }
-
+ 
 .dog, .cat, .rabbit, .mouse, .sheep, .cow, .horse, .pig, .duck,
-.snake, .fish, .squirrel{
+.snake, .fish, .squirrel, .swan, .raven{
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
   font-size: 50px;
 }
-.swan, .raven{
-  display:flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  font-size: 50px;
-}
+
 .cat, .fish, .sheep, .mouse{
   background-color: rgb(249, 249, 110);
 }
@@ -43,6 +39,8 @@ h1{
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   justify-content: center;
   align-items: center;
-
 }
 
+.FlexContainer:last-child {
+ 
+}
