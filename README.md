@@ -1,28 +1,37 @@
 # Emoji_Keyboard
+
 ## Project Description
 
-This project is an **Emoji Keyboard** created using **HTML**, **CSS**, and **JavaScript**. The purpose of this project is to provide a virtual keyboard that allows users to interact with emojis.
+This project is an **Emoji Keyboard** designed to display a dynamic sequence of animal emojis. Built using **HTML**, **CSS**, and **JavaScript**, the virtual keyboard allows users to watch as animal emojis appear and disappear automatically on the screen.
 
 ### Features:
-- **HTML & CSS**: The layout and design of the keyboard are built using basic HTML structure and CSS for styling.
+- **HTML & CSS**: The keyboard layout is created using basic HTML, and the styling of the emojis and their arrangement on the screen is handled with CSS.
 - **JavaScript**: 
-  - Emojis appear and disappear one by one in a dynamic sequence, providing an interactive and engaging experience for the user.
-  - **Interactive Feature**: When you click or touch the location of an emoji, a text message appears, creating a fun interaction for the user.
+  - Emojis appear one by one in a sequence and disappear in the same manner, providing a visually dynamic experience.
+  - **Visual Interactivity**: Although the emojis are not interactive on click, their appearance and disappearance create an engaging visual experience for the user.
 
-The emojis are displayed on the screen automatically, and JavaScript ensures they appear in a sequence and disappear in the same manner. Additionally, users can interact with the emojis, triggering text to appear upon touch or click.
+The emojis are displayed automatically, with JavaScript controlling their sequential appearance and disappearance, creating a fun and animated atmosphere.
 
 ## How to Use
 1. Open the project in a web browser.
-2. Watch as emojis appear one by one and disappear automatically.
-3. **Interact**: Click or touch the location of an emoji to see a message appear.
+2. Watch as the emojis appear one by one and disappear automatically.
+3. **Visual Experience**: The emojis continue to show in sequence without any user interaction required.
 
 ## Technologies Used
-- **HTML**: For structuring the content of the keyboard.
-- **CSS**: For styling and positioning the emojis and the keyboard.
-- **JavaScript**: To dynamically control the display, disappearance, and interaction of the emojis.
+- **HTML**: For structuring the content of the virtual emoji keyboard.
+- **CSS**: For styling and positioning the emojis on the screen.
+- **JavaScript**: To dynamically control the display, disappearance, and sequence of the emojis.
 
 ## Demo
 
 Check out the live demo of the project here: 
+
+## Project Structure
+
+The project is organized as follows:
+1. **HTML**: Contains the structure of the page, including sections for the different animal emojis.
+2. **CSS**: Handles the styling and layout of the emojis.
+3. **JavaScript**: Controls the sequence of the emoji appearance and disappearance.
+
 
 
